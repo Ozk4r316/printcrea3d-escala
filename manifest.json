@@ -1,0 +1,22 @@
+
+{
+  "id": "./",
+  "name": "Printcrea3D Scale",
+  "short_name": "Scale",
+  "description": "Calculadora de escalas para impresión 3D",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17191f",
+  "theme_color": "#17191f",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
